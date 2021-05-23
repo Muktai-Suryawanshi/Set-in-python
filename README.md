@@ -18,3 +18,5 @@ Set - Access value, add method, create set, discard, remove, iterating, intersec
 ![Capture](https://user-images.githubusercontent.com/82524305/119251540-ac156700-bbc4-11eb-9b5b-00e01b17d2dc.PNG)
 
 ![Capture](https://user-images.githubusercontent.com/82524305/119251603-fac30100-bbc4-11eb-966e-82b8e2a686e4.PNG)
+
+![Capture](https://user-images.githubusercontent.com/82524305/119251651-483f6e00-bbc5-11eb-9689-25524ef92903.PNG)
